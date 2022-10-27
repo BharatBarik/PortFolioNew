@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    /* height: 100px; */
+    background-color: aliceblue;
+}
+.n{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.work{
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 25px;
+}
+.About{
+    padding: 100px;
+    font-family: sans-serif;
+    align-content: center;
+    font-size: 25px;
+}
+.project{
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+    font-size: 25px;
+}
+.nam{
+    font-size: 60px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.but{
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.na{
+    align-items: flex-start;
+    width: 100px;
+    padding: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: blue;
+
+}
+.detail{
+    background-color: bisque;
+    align-content: center;
+}
+.photo{
+    padding: 150px;
+    height: 20px;
+    background-image: url("image.jpg");
+    align-content: right;
+}
+.cont{
+    /* height: 1000px; */
+    display: flex;
+    flex-direction: row;
+}
+.photo img{
+    height: 650px;
+}
+.left{
+    /* float: left; */
+    width: 900px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.right{
+    width:1000px;
+    background-color: bisque;
+    float: right;
+    padding: 0px ,0px;
+}
+.butt{
+    padding: 40px;
+}
+.but1{
+    /* background-color: red; */
+    /* border-radius: 3px; */
+    padding:20px;
+    height: 20px;
+}
+#hr0{
+    border: 1px;
+    border-radius: 10px;
+}
+#hr{
+    background-color: red;
+    border: 0px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
+#hr1{
+    background: white;
+    border: 0px;
+    height:50px;
+    width:100px;
+
+}
+menu{
+    padding:0px;
+} 
+#imag{
+    height: 650px;
+}
+.exp{
+
+    padding: 10px;
+    
+}
+.foot{
+    height: 150px;
+    float: bottom;
+    margin: 0;
+    padding: 0;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.left1{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+.right1{
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+}
+.but3{
+    height: 30px;
+    background-color: yellow;
+    border-radius: 5px;
+
+}
+.lt{
+    height:500px;
+}
